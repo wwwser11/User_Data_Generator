@@ -24,11 +24,6 @@ This Python script generates customizable test user data and saves it to a JSON 
 ## Requirements
 - Python 3.6 or higher
 
-### Install dependencies
-```
-pip install -r requirements.txt
-```
-
 ---
 
 ## Usage
